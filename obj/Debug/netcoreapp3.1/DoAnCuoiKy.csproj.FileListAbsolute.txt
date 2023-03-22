@@ -1,0 +1,98 @@
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\UEH\OOP\DOANCUOIKY\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\HUYẾT TƯ VŨ\oop\đồ án\DoAnCuoiKy (1)\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\hân\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.exe
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.deps.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.runtimeconfig.dev.json
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\bin\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.AssemblyReference.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfoInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.AssemblyInfo.cs
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.csproj.CoreCompileInputs.cache
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.dll
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.pdb
+D:\Kỳ 3\A KỲ 4\LTHDT\Đo an cuoi ki\Do-an-LTHDT_Nhom 7\Do-an-LTHDT_Nhom 7\DoAnCuoiKy\obj\Debug\netcoreapp3.1\DoAnCuoiKy.genruntimeconfig.cache

@@ -1,0 +1,5 @@
+BH02-Nhan vien ban hang-Nguyen Le Loc-26-2.3-nguyenleloc-123-28
+BH03-Nhan vien ban hang-Le Van Nam-32-2.6-lavannam-123-30
+BH04-Nhan vien ban hang-Nguyen Bao Han-27-2.3-nguyenbaohan-123-29
+BH05-Nhan vien ban hang-Tran Van Quang-35-2.5-tranvanquang-123-28
+BH01-Nhan vien ban hang-Nguyen Van An-29-2.9-nguyenvanan-123-29
